@@ -1,0 +1,22 @@
+{
+  "name": "jwt-express-guard",
+  "version": "1.0.0",
+  "description": "Simple plug-and-play middleware for JWT authentication, role-based access control & rate limiting in Express apps.",
+  "main": "src/index.js",
+  "keywords": [
+    "express",
+    "jwt",
+    "middleware",
+    "authentication",
+    "authorization"
+  ],
+  "author": "Muhammad Naveed",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
